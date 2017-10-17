@@ -1,0 +1,38 @@
+/*Creando una lista en float*/
+li{
+	float: left;
+	height: 14px;
+	margin: 10px;
+}
+/*evitando que la lista colapse*/
+.contenedor{
+	background-color: green;
+	border: 1px solid black;
+	overflow: hidden;
+}
+
+/*Probando float con imagenes y textos*/
+.imagen1{
+	float:left;
+	height: 350px;
+	width: 450px;
+	margin: 15px;
+}
+.imagen2{
+	float: right;
+	height: 350px;
+	width: 450px;
+	margin: 15px;
+}
+h1{
+	text-align: center;
+
+}
+/*Aplicar estilos al icono agregado */
+h1 span{
+	color: purple;
+	margin-right: 10px;
+}	
+
+
+
